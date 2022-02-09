@@ -1,0 +1,46 @@
+@import "templatecolors.css";
+
+body {max-width: 960px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+nav>ul {list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+}
+nav>ul>li {float: left;
+}
+nav>ul>li a {display: block;
+    text-align: center;
+    color: black;
+    padding: 10px; 0; 200px; 0; 
+    text-decoration: none;
+}
+li a:hover{color: #363636;
+}
+#ComputingLogo {width: 300px;}
+#IanWood {width: 940px;}
+#chrisina {width: 200px;
+float: left;
+padding-right: 20px;}
+
+p, h2, h3, h4, h5, a {font-family: sans-serif;
+font-weight: 300;
+}
+#news {background-color: #ac89ca;}
+#events {background-color: #602494;}
+footer {background-color: #363636;
+    height: 30px;
+    width: 940px;
+    padding-top: 10px;
+    padding-bottom: 30px;
+    color: white;
+}
+#foot {text-align: center;}
+aside p, h5 {color: white;
+}
+p { text-align: justify;}
+h4 {color: red;}
+article {padding: 10px; 5px; 10px; 5px;}
