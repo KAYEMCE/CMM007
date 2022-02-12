@@ -1,0 +1,59 @@
+body {max-width: 960px;
+    margin-left: auto;
+    margin-right: auto; 
+}
+
+h1 {text-align: left; margin-top: 30px; 
+margin-left: 100px; color: rgb(197, 113, 113);
+font-size: 30px; letter-spacing: 5px;
+}
+#cheese {float: left; width: 150px; padding-left: 0;
+}
+
+#cheese_factory {
+    width:300px;
+    height: 300px;
+    padding-right: 5px;
+    padding-top: 5px; margin-left: 0px;
+}
+
+nav>ul{ list-style-type: none;
+        margin-left: -100px;
+        margin-right: auto;
+        margin-top: 20px;
+        overflow: hidden;
+        padding-top: 30px;
+        padding-right: 0px;
+        padding-left: 0px;
+        padding-bottom: 0px;
+        float: left;   
+}
+nav>ul>li {float: right;
+    padding-left: 30px; padding-right: 20px;
+    display: block;
+    text-decoration: none; text-indent: 30px;
+    border-style: groove; 
+    border-color: rgb(231, 203, 203);
+    color: gray;
+}
+a {text-decoration: none; color: black; }
+li a:hover {color: red;}
+
+ footer {text-align: center;
+    background-color: gray;
+    color: white;
+    margin-top: 0px; height: 30px;
+    padding-top: 10px;
+}    
+
+p {text-align: justify;
+    padding: 5px;
+    margin-left: 50px; margin-right: 50px;
+}
+aside {background-color: darkcyan;
+    height: 300px; color: white;
+}
+main {background-color: rgb(231, 203, 203); 
+    height: 330px; margin-top: 100px;}
+
+   
